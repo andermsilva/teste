@@ -1,0 +1,15 @@
+D:\Documents\E_D_D\codigos\aula2\bin\Debug\net6.0\aula2.exe
+D:\Documents\E_D_D\codigos\aula2\bin\Debug\net6.0\aula2.deps.json
+D:\Documents\E_D_D\codigos\aula2\bin\Debug\net6.0\aula2.runtimeconfig.json
+D:\Documents\E_D_D\codigos\aula2\bin\Debug\net6.0\aula2.dll
+D:\Documents\E_D_D\codigos\aula2\bin\Debug\net6.0\aula2.pdb
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.csproj.AssemblyReference.cache
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.AssemblyInfoInputs.cache
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.AssemblyInfo.cs
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.csproj.CoreCompileInputs.cache
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.dll
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\refint\aula2.dll
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.pdb
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\aula2.genruntimeconfig.cache
+D:\Documents\E_D_D\codigos\aula2\obj\Debug\net6.0\ref\aula2.dll

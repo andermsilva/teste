@@ -1,0 +1,15 @@
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\bin\Debug\net6.0\trabalho.exe
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\bin\Debug\net6.0\trabalho.deps.json
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\bin\Debug\net6.0\trabalho.runtimeconfig.json
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\bin\Debug\net6.0\trabalho.dll
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\bin\Debug\net6.0\trabalho.pdb
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.csproj.AssemblyReference.cache
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.AssemblyInfoInputs.cache
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.AssemblyInfo.cs
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.csproj.CoreCompileInputs.cache
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.dll
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\refint\trabalho.dll
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.pdb
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\trabalho.genruntimeconfig.cache
+Q:\REPOSITORIO\Documentos\fatecpp\E_D_D\codigos\trabalho\obj\Debug\net6.0\ref\trabalho.dll
